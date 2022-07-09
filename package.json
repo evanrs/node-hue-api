@@ -1,5 +1,5 @@
 {
-  "name": "node-hue-api",
+  "name": "@dev/node-hue-api",
   "description": "Philips Hue API Library for Node.js",
   "version": "5.0.0-beta.12",
   "author": "Peter Murray ",

@@ -1,12 +1,13 @@
 {
   "compilerOptions": {
-    "target": "ES2018",
+    "target": "es2020",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./dist/cjs",
     "strict": true,
     "esModuleInterop": true,
-//    "allowJs": true
+    "skipLibCheck": true
+    //    "allowJs": true
   },
   "exclude": [
     "test",
